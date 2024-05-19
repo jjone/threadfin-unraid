@@ -17,6 +17,7 @@ Click Refresh Guide Data in Jellyfin<br><br>
 Mapping categories in Threadfin:<br>
 goto Threadfin web and click Mapping<br>
 click individual channel and select EPG Category: (Kids, News, Movie, Series, Sports)  and click Save<br><br>
+(Mapped channels will show up in Jellyfin > LiveTV > Programs : ON Now, Shows, Movies, Sports, For Kids, News)<br><br>
 
 Its better to restart both Threadfin and Jellyfin after Mapping<br>
 <br><br>

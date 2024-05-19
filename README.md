@@ -31,9 +31,9 @@ unraid file location
   <DonateText/>
   <DonateLink/>
   <Requires/>
-  <Config Name="THREADFIN_CONF" Target="/home/threadfin/conf" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/threadfi>
-  <Config Name="Host Path 2" Target="/home/threadfin/data" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/threadfin/d>
-  <Config Name="Host Path 3" Target="/home/threadfin/conf/backup" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/thre>
+  <Config Name="THREADFIN_CONF" Target="/home/threadfin/conf" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/threadfin>
+  <Config Name="Host Path 2" Target="/home/threadfin/data" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/threadfin/data>
+  <Config Name="Host Path 3" Target="/home/threadfin/conf/backup" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/threadfin/backup>
   <Config Name="Main Port" Target="34400" Default="34400" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">34400</Config>
 </Container>
 

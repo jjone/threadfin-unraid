@@ -1,5 +1,23 @@
 # threadfin-unraid
 threadfin xml template for unraid
+
+Having a hard time with Xteve so i tried Threadfin. Much better and reliable!
+
+I added Samsung Tv Plus M3u and Xml guide feed to Threadfin, 
+set 
+EPG Source: XEPG
+Stream Buffer: FFmpeg
+Click Server Information on top right corner find your Stream Information
+copy the M3U URL to Jellyfin >dashboard >livetv >Tuner Devices> in M3U Tuner and click save
+copy the XMLTV URL to Jellyfin >dashboard >livetv > TV Guide Data Providers > in XMLTV and click save
+Click Refresh Guide Data in Jellyfin
+
+Mapping categories in Threadfin:
+goto Threadfin web and click Mapping
+click individual channel and select EPG Category: (Kids, News, Movie, Series, Sports)  and click Save
+
+Its better to restart both Threadfin and Jellyfin after Mapping
+
 <img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">
 
 unraid file location

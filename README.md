@@ -21,6 +21,8 @@ click individual channel and select EPG Category: (Kids, News, Movie, Series, Sp
 (Mapped channels will show up in Jellyfin > LiveTV > Programs : ON Now, Shows, Movies, Sports, For Kids, News)<br><br>
 
 Its better to restart both Threadfin and Jellyfin after Mapping<br>
+<br>
+My Jellyfin Refresh Guide Scheduled Tasks is every 2 hours.<br>
 <br><br>
 <img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">
 <br><br>

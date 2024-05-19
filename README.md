@@ -33,4 +33,7 @@ nano /boot/config/plugins/dockerMan/templates-user/my-Threadfin.xml
   <Config Name="Main Port" Target="34400" Default="34400" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">34400</Config>
 </Container>
 
-
+``
+------------------
+<br>
+<img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">

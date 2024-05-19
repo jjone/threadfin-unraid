@@ -8,8 +8,8 @@ Playlist URL link, https://i.mjh.nz/SamsungTVPlus/us.m3u8 <br>
 XMLTV URL link, https://i.mjh.nz/SamsungTVPlus/us.xml <br><br>
 Threadfin setttings: <br>
 EPG Source: XEPG<br>
-Stream Buffer: FFmpeg<br><br>
-Click Server Information on top right corner find your Stream Information<br>
+Stream Buffer: FFmpeg<br>
+Click Server Information on top right corner find your Stream Information<br><br>
 copy the M3U URL to Jellyfin >dashboard >livetv >Tuner Devices> in M3U Tuner and click save<br>
 copy the XMLTV URL to Jellyfin >dashboard >livetv > TV Guide Data Providers > in XMLTV and click save<br>
 Click Refresh Guide Data in Jellyfin<br><br>

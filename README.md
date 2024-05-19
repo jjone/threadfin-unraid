@@ -7,7 +7,7 @@ I added Samsung Tv Plus M3u and Xml guide feed to Threadfin, <br>
 Playlist URL link, https://i.mjh.nz/SamsungTVPlus/us.m3u8 <br>
 XMLTV URL link, https://i.mjh.nz/SamsungTVPlus/us.xml <br><br>
 Threadfin setttings: <br>
-Number of Tuners:2 
+Number of Tuners:2  <br>
 EPG Source: XEPG<br>
 Stream Buffer: FFmpeg<br>
 Click Server Information on top right corner find your Stream Information<br>

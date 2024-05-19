@@ -4,7 +4,9 @@ threadfin xml template for unraid
 Having a hard time with Xteve so i tried Threadfin. Much better and reliable!<br><br>
 
 I added Samsung Tv Plus M3u and Xml guide feed to Threadfin, <br>
-set <br>
+Playlist URL link, https://i.mjh.nz/SamsungTVPlus/us.m3u8 <br>
+XMLTV URL link, https://i.mjh.nz/SamsungTVPlus/us.xml <br>
+Threadfin setttings: <br>
 EPG Source: XEPG<br>
 Stream Buffer: FFmpeg<br>
 Click Server Information on top right corner find your Stream Information<br>

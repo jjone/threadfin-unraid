@@ -5,14 +5,14 @@ Having a hard time with Xteve so i tried Threadfin. Much better and reliable!<br
 
 I added Samsung Tv Plus M3u and Xml guide feed to Threadfin, <br>
 Playlist URL link, https://i.mjh.nz/SamsungTVPlus/us.m3u8 <br>
-XMLTV URL link, https://i.mjh.nz/SamsungTVPlus/us.xml <br>
+XMLTV URL link, https://i.mjh.nz/SamsungTVPlus/us.xml <br><br>
 Threadfin setttings: <br>
 EPG Source: XEPG<br>
-Stream Buffer: FFmpeg<br>
+Stream Buffer: FFmpeg<br><br>
 Click Server Information on top right corner find your Stream Information<br>
 copy the M3U URL to Jellyfin >dashboard >livetv >Tuner Devices> in M3U Tuner and click save<br>
 copy the XMLTV URL to Jellyfin >dashboard >livetv > TV Guide Data Providers > in XMLTV and click save<br>
-Click Refresh Guide Data in Jellyfin<br>
+Click Refresh Guide Data in Jellyfin<br><br>
 
 Mapping categories in Threadfin:<br>
 goto Threadfin web and click Mapping<br>

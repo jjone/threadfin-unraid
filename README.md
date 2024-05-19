@@ -1,9 +1,11 @@
 # threadfin-unraid
 threadfin xml template for unraid
+<img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">
 
 nano /boot/config/plugins/dockerMan/templates-user/my-Threadfin.xml
 
-```
+`
+`````
 <?xml version="1.0"?>
 <Container version="2">
   <Name>Threadfin</Name>
@@ -33,7 +35,4 @@ nano /boot/config/plugins/dockerMan/templates-user/my-Threadfin.xml
   <Config Name="Main Port" Target="34400" Default="34400" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">34400</Config>
 </Container>
 
-``
-------------------
-<br>
-<img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">
+

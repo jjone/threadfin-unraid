@@ -2,7 +2,9 @@
 threadfin xml template for unraid
 <img src="https://github.com/jjone/threadfin-unraid/blob/main/Snipaste_2024-05-19_11-22-40.png">
 
-nano /boot/config/plugins/dockerMan/templates-user/my-Threadfin.xml
+unraid file location
+
+/boot/config/plugins/dockerMan/templates-user/my-Threadfin.xml
 
 `
 `````
